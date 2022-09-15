@@ -1,6 +1,6 @@
 #include <iostream>
 #include <vector>
-#inlcude <cmath>
+#include <cmath>
 
 using ld = long double;
 using ll = long long;
